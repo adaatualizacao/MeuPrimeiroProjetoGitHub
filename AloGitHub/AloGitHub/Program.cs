@@ -12,11 +12,6 @@ namespace AloGitHub
         {
             Console.WriteLine(txt);
         }
-
-        static void EscreveNaTela2(String txt)
-        {
-            EscreveNaTela(txt);
-        }
         static void Main(string[] args)
         {
             EscreveNaTela("Primeiro teste Github");

@@ -8,7 +8,7 @@ namespace AloGitHub
 {
     class Program
     {
-        static void EscreveNaTela(String txt)
+        static void EscreveNaTela()
         {
             Console.WriteLine(txt);
         }
